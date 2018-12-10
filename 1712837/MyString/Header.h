@@ -121,6 +121,6 @@ public:
 	friend void swap(MyString &x, MyString &y);
 	friend istream& getline(istream&  is, MyString& Data, char delim);
 	friend istream& getline(istream&  is, MyString& Data);
-}
+};
 #endif
 

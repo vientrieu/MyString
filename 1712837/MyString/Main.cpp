@@ -1,9 +1,10 @@
 #include "Header.h"
-#include<string>
-void main() 
+#include"Iterator.h"
+int main() 
 {
-	//Mang Vien Trieu
-	//1712837
-	//17CTT7
+	//
+	MyString a="Mang Vien Trieu\n1712837\n17CTT7";
+	cout << a<<endl;
 	system("pause");
+	return 0;
 }
